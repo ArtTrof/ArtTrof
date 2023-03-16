@@ -8,7 +8,9 @@ It's me,Artem,welcome to my github page! :)
  ⚡ Fun fact:if your program doesn't work from 1st try,you are doing great!
  
  📫 How to reach me:
-     LinkedIn:https://www.linkedin.com/in/artem-trofymenko-b45b78236/
+ 
+     LinkedIn: https://www.linkedin.com/in/artem-trofymenko-b45b78236/
+     
      Telegram:@art_trof
      
 Have a good day ;)
