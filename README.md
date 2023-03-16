@@ -7,7 +7,7 @@ It's me,Artem,welcome to my github page! :)
  
  ⚡ Fun code:
  
- bolean true = false;
+ boolean true = false;
  
  boolean false = true;
  
