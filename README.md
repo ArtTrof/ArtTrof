@@ -5,7 +5,15 @@ It's me,Artem,welcome to my github page! :)
  
  🌱 I’m currently learning java
  
- ⚡ Fun fact:if your program doesn't work from 1st try,you are doing great!
+ ⚡ Fun code:
+ 
+ bolean true = false;
+ 
+ boolean false = true;
+ 
+ if(true != (!false)){false = false;)}
+ 
+ else{System.out.print("how");}
  
  📫 How to reach me:
  
