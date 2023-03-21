@@ -1,39 +1,22 @@
-### Hi there 👋
-It's me,Artem,welcome to my github page! :)
+# Hi there 👋
+## It's me,Artem,welcome to my github page! :)
 
- 🤔 I’m looking for help with making 10 000 000 000 $ a day
- 
- 🌱 I’m currently learning java
- 
- ⚡ Fun code:
- 
- boolean true = false;
- 
- boolean false = true;
- 
- if(true != (!false)){false = false;)}
- 
- else{System.out.print("how");}
- 
- 📫 How to reach me:
- 
-     LinkedIn: https://www.linkedin.com/in/artem-trofymenko-b45b78236/
-     
-     Telegram:@art_trof
-     
-Have a good day ;)
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=ArtTrof&show_icons=true&theme=radical" />
 
-<!--
-**ArtTrof/ArtTrof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtTrof&layout=compact&theme=radical" />
 
-Here are some ideas to get you started:
+<img align="left" width="9%" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" width="8%" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+
+<img align="left" width="9%" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img align="left" width="9%" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+<img align="left" width="9%" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+
+<img align="left" width="9%" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
+<img align="left" width="9%" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+
+
