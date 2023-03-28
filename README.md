@@ -3,8 +3,11 @@ Hello there! 👋
 Welcome to my Github profile! 😊
 
 <p align="center">
+  
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ArtTrof&show_icons=true&theme=radical" />
+  
   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArtTrof&layout=compact&theme=radical" />
+  
 </p>
 Technologies and Tools:
 <p align="center">
