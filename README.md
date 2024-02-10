@@ -2,7 +2,7 @@
 <h3 align="center">A passionate java developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5612AQEuxisRMPU1vQ/article-cover_image-shrink_600_2000/0/1663754310491?e=2147483647&v=beta&t=AGRY2oSx7U4dL0cemLF3tN-eKN6_idPe_N9-6HATMaM">
 
-- 🌱 I’m currently working as **java developer** and learning **JS/TS**
+- 🌱 I’m currently working as **Software engineer (Java+React)**
 
 - 📫 How to reach me **7artemtrofymenko7@gmail.com**
 
