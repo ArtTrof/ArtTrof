@@ -17,7 +17,7 @@
 <p>Sql / NoSql</p>
 <p>Js / Ts</p>
 <p>React / Next.js</p>
-<p>Next.js</p>
+<p>React native</p>
 <p>Docker / Kubernetes</p>
 <p>AWS</p>
 <br/>
