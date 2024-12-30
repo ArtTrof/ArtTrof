@@ -12,14 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p>Java</p>
-<p>Spring / Spring boot</p>
-<p>Sql / NoSql</p>
-<p>Js / Ts</p>
-<p>React / Next.js</p>
-<p>React native</p>
-<p>Docker / Kubernetes</p>
-<p>AWS</p>
+<p>Java, Spring, Spring Boot, SQL, NoSQL, JavaScript, TypeScript, React, React native, Next.js, Docker, Kubernetes, AWS </p>
 <br/>
 <br/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arttrof&show_icons=true&locale=en&layout=compact" alt="arttrof" />
