@@ -9,11 +9,3 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/artem-trofymenko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="artem-trofymenko-b45b78236" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p>Java, Spring Boot, SQL, NoSql, Gradle/Maven, AWS, OpenSearch, NewRelic/Grafana, Docker, Terraform, JavaScript/TypeScript, React, React Native</p>
-<br/>
-<br/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=arttrof&show_icons=true&locale=en&layout=compact" alt="arttrof" />
-
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=arttrof&show_icons=true&locale=en" alt="arttrof" />
